@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBP_Cassandra", "NBP_Cassandra.csproj", "{53B9AEAC-FC39-4A4C-A54A-B5BBEE706829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "..\DataLayer\DataLayer.csproj", "{8FEEA3B4-7611-47E7-BE06-B8C8CD1220EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B9AEAC-FC39-4A4C-A54A-B5BBEE706829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B9AEAC-FC39-4A4C-A54A-B5BBEE706829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B9AEAC-FC39-4A4C-A54A-B5BBEE706829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B9AEAC-FC39-4A4C-A54A-B5BBEE706829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEEA3B4-7611-47E7-BE06-B8C8CD1220EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEEA3B4-7611-47E7-BE06-B8C8CD1220EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEEA3B4-7611-47E7-BE06-B8C8CD1220EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEEA3B4-7611-47E7-BE06-B8C8CD1220EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A174AE2D-B018-4175-9036-BB80DB3F5D71}
+	EndGlobalSection
+EndGlobal
